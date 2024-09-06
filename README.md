@@ -1,1 +1,1 @@
-Working on a to do list in Python. Adding a GUI using Tkinter soon. 
+Working on a to do list in Python. Working on adding a delete and edit option.
